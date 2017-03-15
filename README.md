@@ -1,0 +1,2 @@
+# obdelnik
+click on rectangle
